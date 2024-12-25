@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Updated XML for the WordPress site with Author Fix -->
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Cybersécurité et IA : Alliées ou Nouveaux Risques ?</title>
+    <link>https://myconference2024.wordpress.com</link>
+    <description>Conférence internationale sur les enjeux de la cybersécurité et de l'intelligence artificielle.</description>
+    <pubDate>Wed, 25 Dec 2024 12:29:55 +0000</pubDate>
+    <language>en</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
+    <wp:base_blog_url>https://myconference2024.wordpress.com</wp:base_blog_url>
+
+    <!-- Author Section -->
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login>admin</wp:author_login>
+      <wp:author_email>admin@example.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Admin]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+    </wp:author>
+
+    <!-- Updated Agenda Page -->
+    <item>
+      <title><![CDATA[Agenda]]></title>
+      <link>https://myconference2024.wordpress.com/agenda/</link>
+      <pubDate>Wed, 25 Dec 2024 12:29:55 +0000</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h1>Programme de la Conférence</h1>
+        <p><strong>Jour 1 :</strong> Conférences et innovations</p>
+        <ul>
+          <li>09:00 - Keynote : Le rôle de l’IA dans la cybersécurité</li>
+          <li>10:00 - Table ronde : Les attaques adversariales ciblant les modèles d’IA</li>
+          <li>11:30 - Atelier : Lutte contre les deepfakes</li>
+          <li>14:00 - Networking</li>
+        </ul>
+        <p><strong>Jour 2 :</strong> Ateliers et débats</p>
+        <ul>
+          <li>09:00 - Panel : Le futur des cyberattaques utilisant l’IA</li>
+          <li>11:00 - Retours d’expérience : Cas d’entreprises</li>
+        </ul>
+      ]]></content:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_type>page</wp:post_type>
+    </item>
+
+    <!-- Updated Intervenants Page -->
+    <item>
+      <title><![CDATA[Intervenants]]></title>
+      <link>https://myconference2024.wordpress.com/intervenants/</link>
+      <pubDate>Wed, 25 Dec 2024 12:29:55 +0000</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h1>Intervenants de la Conférence</h1>
+        <p><strong>Dr. Matthew Caldwell :</strong> Expert en intelligence artificielle appliquée à la cybersécurité, auteur renommé.</p>
+        <p><strong>Saminder Dhesi Sohail Ahmed Khan :</strong> Spécialiste des attaques adversariales et défenseur des systèmes d’IA.</p>
+        <p><strong>Mikko Hyppönen :</strong> Responsable de la stratégie chez F-Secure, conférencier mondialement connu.</p>
+      ]]></content:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_type>page</wp:post_type>
+    </item>
+
+    <!-- Updated Blog Section -->
+    <item>
+      <title><![CDATA[Blog]]></title>
+      <link>https://myconference2024.wordpress.com/blog/</link>
+      <pubDate>Wed, 25 Dec 2024 12:29:55 +0000</pubDate>
+      <dc:creator>admin</dc:creator>
+      <content:encoded><![CDATA[
+        <h1>Articles Récents</h1>
+        <p><strong>Tendances de la cybersécurité en 2024 :</strong> Les nouvelles menaces alimentées par l’IA.</p>
+        <p><strong>Lutte contre les deepfakes :</strong> Innovations technologiques pour contrer la désinformation.</p>
+        <p><strong>Attaques adversariales :</strong> Comment les entreprises peuvent renforcer leurs systèmes d’IA.</p>
+      ]]></content:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_type>page</wp:post_type>
+    </item>
+  </channel>
+</rss>
