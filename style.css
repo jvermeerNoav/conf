@@ -1,0 +1,98 @@
+/* Style global */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Noir de fond */
+    color: #FFFFFF; /* Texte en blanc */
+}
+
+/* En-tête */
+header {
+    background-color: #1A1A1A; /* Fond légèrement plus clair que le corps */
+    color: #00FF00; /* Vert pour les titres */
+    text-align: center;
+    padding: 20px 10px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #C0C0C0; /* Argent pour le sous-titre */
+}
+
+/* Corps principal */
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #00FF00;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+main ul {
+    list-style: none;
+    padding: 0;
+}
+
+main ul li {
+    background-color: #1A1A1A; /* Fond légèrement distinct */
+    border: 1px solid #00FF00; /* Bordure verte */
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 15px;
+}
+
+main ul li h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #00FF00;
+}
+
+main ul li p {
+    margin: 10px 0 0 0;
+    font-size: 1rem;
+    color: #C0C0C0; /* Argent pour le texte secondaire */
+}
+
+/* Liens */
+a {
+    color: #00FF00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+/* Pied de page */
+footer {
+    background-color: #1A1A1A;
+    color: #C0C0C0;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.8rem;
+}
+
+/* Boutons (optionnel si vous en avez besoin) */
+button {
+    background-color: #00FF00;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FFFFFF;
+    color: #00FF00;
+}
